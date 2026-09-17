@@ -2,6 +2,10 @@
 
 A simple website that helps you decide what game to play when you can't choose.
 
+## Preview
+
+![Game Picker Preview](images/Thumbnail.png)
+
 ## Features
 
 * Choose between **Competitive Games** and **Story Games**
@@ -34,6 +38,7 @@ game-picker/
 ├── script.js
 ├── images/
 │   └── BG.jpg
+├── screenshot.png
 └── README.md
 ```
 
