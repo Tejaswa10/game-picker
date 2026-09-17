@@ -6,6 +6,8 @@ A simple website that helps you decide what game to play when you can't choose.
 
 ![Game Picker Preview](images/Thumbnail.png)
 
+[Try it out](https://tejaswa10.github.io/game-picker/)
+
 ## Features
 
 * Choose between **Competitive Games** and **Story Games**
@@ -63,3 +65,4 @@ The project helped me practice:
 * Add a smoother transition between sections
 * Add more games to the lists
 * Improve the interface for mobile screens
+
