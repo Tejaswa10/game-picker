@@ -40,3 +40,9 @@ h1:hover, h2:hover, p:hover{
 h2, p{
     transition: 0.3s;
 }
+.select, .final{
+    display: none;
+}
+#gameName{
+    font-weight: bold;
+}
