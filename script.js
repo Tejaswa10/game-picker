@@ -35,6 +35,7 @@ const compButton = document.querySelector("#compButton");
 const storyButton = document.querySelector("#storyButton");
 const gameName = document.querySelector("#gameName");
 const final = document.querySelector(".final");
+const tryButton = document.querySelector("#tryButton");
 
 let gamePicked = false;
 
@@ -57,4 +58,8 @@ storyButton.addEventListener("click", function() {
     gamePicked = true;
 }});
 
+tryButton.addEventListener("click", function() {
 
+    gamePicked = false;
+    final.style.display = "none";
+});
