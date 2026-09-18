@@ -12,6 +12,12 @@ Game Picker randomly suggests you a game if you dont know which game to play. Yo
 
 [Try it out](https://tejaswa10.github.io/game-picker/)
 
+## Tech Stack
+* HTML - Used to create the structure of the website.
+* CSS - Used to style the website and add animations.
+* JavaScript - Used to make the website interactive and randomly select games.
+* Git & GitHub - Used to track changes and store the project.
+
 ## Getting Started
 
 ### Dependencies
